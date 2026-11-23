@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Docente2\\Documents\\Isaac Solis\\Proyectos mios\\ProyectoEjemploDotNet\\Aplicacion ejemplo de POO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1120408-9991-4A38-BC8E-8D59A9E530F7}|Aplicacion ejemplo de POO\\Aplicacion ejemplo de POO.csproj|c:\\users\\docente2\\documents\\isaac solis\\proyectos mios\\proyectoejemplodotnet\\aplicacion ejemplo de poo\\aplicacion ejemplo de poo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1120408-9991-4A38-BC8E-8D59A9E530F7}|Aplicacion ejemplo de POO\\Aplicacion ejemplo de POO.csproj|solutionrelative:aplicacion ejemplo de poo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Docente2\\Documents\\Isaac Solis\\Proyectos mios\\ProyectoEjemploDotNet\\Aplicacion ejemplo de POO\\Aplicacion ejemplo de POO\\Form1.cs",
+              "RelativeDocumentMoniker": "Aplicacion ejemplo de POO\\Form1.cs",
+              "ToolTip": "C:\\Users\\Docente2\\Documents\\Isaac Solis\\Proyectos mios\\ProyectoEjemploDotNet\\Aplicacion ejemplo de POO\\Aplicacion ejemplo de POO\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Aplicacion ejemplo de POO\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T13:34:47.259Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
